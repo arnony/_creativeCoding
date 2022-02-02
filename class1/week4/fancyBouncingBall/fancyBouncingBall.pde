@@ -1,5 +1,6 @@
 //fixed only after class of 31/1/2022
 //ball bounces-off of all walls and changes color upon bounce
+//seems as the logic was too hard to follow at this stage. leaving it here as is for now, but going back to smaller steps in the next lessons.... 
 
 int n;
 int m;
