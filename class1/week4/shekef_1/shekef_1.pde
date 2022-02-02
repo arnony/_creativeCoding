@@ -34,5 +34,5 @@ void setup() {
 
   //TODO 4: if you're happy with the results - upload the following image to arnon to https://www.dropbox.com/request/hn8UTVxmulXTCTLSOwFl
   // (the image can be found at the same folder of your code)
-  save("masterpiece1.tif");
+  save("masterpiece1.png");
 }
