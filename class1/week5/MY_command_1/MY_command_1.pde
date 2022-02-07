@@ -8,13 +8,12 @@
 int i=0;
 
 void setup() {
-  size(450, 800);
+  size(850, 800);
   background(255);
-
   textSize(17);
   fill(0);
   // TODO 1: replace 'arnon' with your name:
-  text ("arnon, 7/2/22", width-140, height-80);
+  text ("arnon, 7/2/22", width-140, height-50);
   colorMode(HSB, 255);
 
 
