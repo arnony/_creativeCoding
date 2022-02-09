@@ -16,16 +16,16 @@ void setup() {
 
 void draw() {
   fill(mouseX/5, 255, 255);
-
 }
 
 void mousePressed() {
-  myStamp(mouseX, mouseY);
+  myStamp(mouseX,mouseY);
+  //circle(100,300,50);
 }
 
 
 
-void myStamp(int x, int y){
-  circle (x,y,90);
-  circle (x+10,y,50);
- }
+void myStamp(int x, int y) {
+  circle (x, y, 90);
+  circle (x+10, y, 50);
+}
